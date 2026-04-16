@@ -41,7 +41,7 @@ How It Works
 How It Works
 The script processes 10 sample customer messages. For each message it demonstrates:
 
-Prompt Chaining – clean → classify → generate reply
+Prompt Chaining - clean  -classify - generate reply
 
 Routing – route to technical, billing, complaint, or general branch
 
